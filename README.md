@@ -39,6 +39,6 @@ The SQL queries in this project help identify **key insights**, such as:
 2. Open the **SQL file** in your database system (e.g., PostgreSQL, MySQL).  
 3. Run the queries and analyze the insights!  
 
-📩 Contribution & Feedback**  
+📩 Contribution & Feedback 
 Feel free to **fork this repository**, suggest improvements, or share feedback! 🚀  
 
